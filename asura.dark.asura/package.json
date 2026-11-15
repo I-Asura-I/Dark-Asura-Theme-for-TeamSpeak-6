@@ -1,0 +1,16 @@
+{
+    "name": "Dark Asura",
+    "description": "Pure black TeamSpeak 6 theme with light buttons and red accents.",
+    "version": "0.2.0",
+    "identifier": "asura.dark.asura",
+    "engines": { "teamspeak": 1 },
+    "repository": "https://github.com/I-Asura-I/Dark-Asura-Theme-for-TeamSpeak-6",
+    "image": "screenshot.png",
+    "license": "MIT",
+    "author": "Asura",
+    "content": {
+        "themes": [
+            { "name": "Dark Asura", "source": "dark-asura.css", "image": "screenshot.png", "apiVersion": 1 }
+        ]
+    }
+}
